@@ -33,8 +33,7 @@ J’aime transformer les données en informations utiles à travers Python et se
 # 🛠 Compétences
 
 - Python 🐍  
-- Analyse de données 📊  
-- Git & GitHub 🌐  
+- Analyse de données 📊   
 - Résolution de problèmes 💡  
 
 ---
